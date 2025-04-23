@@ -1,6 +1,8 @@
 body {
     font-family: sans-serif;
-    background-color: #f9cbcb;
+    background-image: URL(BCKGRNDTODO.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     padding: 20px;
     max-width: 500px;
     margin: auto;
